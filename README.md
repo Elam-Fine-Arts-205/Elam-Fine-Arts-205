@@ -1,4 +1,4 @@
-# 👋 Hi, this is GitHub account is for the FINEARTS 205: Creative Computing course at Elam School of Fine Arts.
+# 👋 Hi, this is GitHub account is for the FINEARTS 205: Creative Computing course
 
 
 <!---
